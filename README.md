@@ -1,6 +1,6 @@
 --
-# Basic Selenium Project
-* The foundation for all your selenium projects Using TestNG
+# Maven Play project
+* Become familiar with using maven at the command line
 
 ## Helpfull info
 * [Overview for github] (http://rogerdudler.github.io/git-guide/)

@@ -1,6 +1,6 @@
 --
-# Maven Play project
-* Become familiar with using maven at the command line
+# Actions Play project
+* Selenium Actions, handleing multiple actions
 
 ## Helpfull info
 * [Overview for github] (http://rogerdudler.github.io/git-guide/)
